@@ -3,13 +3,14 @@ layout:     post
 title:      "一个好的管理者"
 subtitle:   " \"Good Manager\""
 date:       2020-08-27 22:00:00
-author:     ""
+author:     "[Internet]"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
     - 转发
     - 管理
 ---
+#F4F4F4 
 
 
 **一个好的管理者必须是一个好的管理制度设计者，一个好的政策制定者，同时还是一个好的制度贯彻者，一个好的政策落实者，一个好教练，好编剧，好导演，更是一个好的环境营造者。**
