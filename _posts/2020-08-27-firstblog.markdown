@@ -7,8 +7,7 @@ author:     "DansonC"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 转发
-    - 管理
+    - 生活
 ---
 
 > “尘埃未定”
